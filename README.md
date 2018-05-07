@@ -1,8 +1,8 @@
 # cutadapt-quality-trimming
-I would like to use cutadapt v1.9 to trim a .fastq files for sequence quality: /n
-my command: /n
-cutadapt -q 20 -o test_R1.fastq.clean test_R1.fastq /n
-reply: /n
+I would like to use cutadapt v1.9 to trim a .fastq files for sequence quality:
+my command:
+cutadapt -q 20 -o test_R1.fastq.clean test_R1.fastq
+reply:
 This is cutadapt 1.9.dev1 with Python 2.6.6
 Command line parameters: -q 20 -o test_R1.fastq.clean test_R1.fastq
 Trimming 0 adapters with at most 10.0% errors in single-end mode ...
